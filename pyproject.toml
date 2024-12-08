@@ -18,7 +18,7 @@ dependencies = [
     "pydantic == 1.9.2",
     "retry",
     "validators",
-    "requests < 2.30.0",
+    "requests < 2.33.0",
     "urllib3 < 2"
 ]
 
